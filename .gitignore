@@ -1,0 +1,7 @@
+bin/
+.venv/
+build/
+*.exe
+*.obj
+.vscode/
+__pycache__/
